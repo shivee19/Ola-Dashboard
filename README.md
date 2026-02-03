@@ -160,7 +160,11 @@ This dashboard mirrors real KPIs tracked in companies like OLA, Uber, Swiggy Ins
 
 6. Screenshots / Demo
 ![Overall Dashboard].(https://github.com/shivee19/Ola-Dashboard/blob/main/Screenshot%202026-02-03%20220124.png).
+
 ![Vehicle Analysis].(https://github.com/shivee19/Ola-Dashboard/blob/main/Screenshot%202026-02-03%20220139.png).
+
 ![Revenue Dashboard].(https://github.com/shivee19/Ola-Dashboard/blob/main/Screenshot%202026-02-03%20220154.png).
+
 ![Cancellation Analysis].(https://github.com/shivee19/Ola-Dashboard/blob/main/Screenshot%202026-02-03%20220208.png).
+
 ![Ratings].(https://github.com/shivee19/Ola-Dashboard/blob/main/Screenshot%202026-02-03%20220222.png).
